@@ -1,0 +1,26 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "Heli escape interactive phaser game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenHughey/Heroku.git"
+  },
+  "keywords": [
+    "game",
+    "heli",
+    "helicopter",
+    "escape"
+  ],
+  "author": "Ben Hughey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenHughey/Heroku/issues"
+  },
+  "homepage": "https://github.com/BenHughey/Heroku#readme"
+}
