@@ -1,0 +1,32 @@
+{
+  "name": "heliescapenode",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenHughey/Heroku.git"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  },
+  "description": "nodejs game",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "heli",
+    "game",
+    "escape",
+    "helicopter"
+  ],
+  "author": "Ben Hughey",
+  "license": "ISC"
+}
